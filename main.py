@@ -30,7 +30,7 @@ form = """
         <form method="post">
             <input type="text" name="rot" value="0"/>
             <textarea type="text" name="text">{new_text}</textarea>
-            <input type="submit"/>
+            <input type="submit" value="Submit"/>
         </form>
     </body>
 </html>
